@@ -1,3 +1,10 @@
+# [1.1.0](https://github.com/DreamyProtect/squchan-noodle-curse/compare/v1.0.0...v1.1.0) (2023-04-11)
+
+
+### Features
+
+* keep track of the last cursed chat member ([0afbba0](https://github.com/DreamyProtect/squchan-noodle-curse/commit/0afbba00bf1cfdb23a48286af867cb863600da33))
+
 # 1.0.0 (2023-04-08)
 
 
