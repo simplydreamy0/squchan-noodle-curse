@@ -20,6 +20,8 @@ Have you seen this cat ?
 
 She's cute right ? Turns out she can use magic and transform your dick into a noodle. This bot is just a helper in her chat that will keep track of the active users and, whenever someone gifts a 5 subs bombs, according to her sound alert, will randomly pick up an active user and curse him !
 
+If you don't check her out [here](https://twitch.tv/squchan) right now she will come and eat your face. Who wouldn't want that right ? click, follow, like, sub, prime all of that at the same time.
+
 That's basically it.
 
 ## Starting the bot
