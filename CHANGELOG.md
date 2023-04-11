@@ -1,3 +1,10 @@
+## [1.1.1](https://github.com/DreamyProtect/squchan-noodle-curse/compare/v1.1.0...v1.1.1) (2023-04-11)
+
+
+### Bug Fixes
+
+* cursed command output doesn't properly render the user's name ([90fcb2e](https://github.com/DreamyProtect/squchan-noodle-curse/commit/90fcb2e953af41035308347bbe972bb57c981c55))
+
 # [1.1.0](https://github.com/DreamyProtect/squchan-noodle-curse/compare/v1.0.0...v1.1.0) (2023-04-11)
 
 
