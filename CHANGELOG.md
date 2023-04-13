@@ -1,3 +1,10 @@
+## [1.1.2](https://github.com/DreamyProtect/squchan-noodle-curse/compare/v1.1.1...v1.1.2) (2023-04-13)
+
+
+### Bug Fixes
+
+* **Dockerfile:** COPY package and package lock dest needs to be a folder ([64702d4](https://github.com/DreamyProtect/squchan-noodle-curse/commit/64702d41d763f5a07746b699a9b7043547e0a53d))
+
 ## [1.1.1](https://github.com/DreamyProtect/squchan-noodle-curse/compare/v1.1.0...v1.1.1) (2023-04-11)
 
 
