@@ -1,3 +1,10 @@
+## [1.1.3](https://github.com/DreamyProtect/squchan-noodle-curse/compare/v1.1.2...v1.1.3) (2023-05-17)
+
+
+### Bug Fixes
+
+* removed bots from being picked up by the bot ([afbf841](https://github.com/DreamyProtect/squchan-noodle-curse/commit/afbf841f95a3b30f6ce2a462a532151a3864ca91))
+
 ## [1.1.2](https://github.com/DreamyProtect/squchan-noodle-curse/compare/v1.1.1...v1.1.2) (2023-04-13)
 
 
