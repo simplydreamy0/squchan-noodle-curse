@@ -14,6 +14,12 @@ const opts = {
 const client = new tmi.client(opts);
 
 var usersTracking = []; // [ { username: string, lastMessage: <timestamp in second>, isCursed: boolean } ]
+var usersNotTracked = [
+  "nightbot",
+  "soundalerts",
+  "spinel97",
+  "sery_bot"
+];
 
 client.on('message', onMessageHandler);
 client.on('connected',  (addr, port) => { console.log(`* Connected to ${addr}:${port}`); });
@@ -25,7 +31,10 @@ function onMessageHandler (channel, tags, msg, self) {
 
   if (self) { return; }
 
-  if (usersTracking.filter( (elem) => elem.username === tags.username).length == 0){
+  if (
+      (usersTracking.filter( (elem) => elem.username === tags.username).length == 0)
+      && (!usersNotTracked.includes(tags.username))
+  ){
     usersTracking.push({ username: tags.username, lastMessage: tags['tmi-sent-ts'], isCursed: false });
   } else {
     usersTracking = usersTracking.map((elem) => {
