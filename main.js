@@ -59,7 +59,7 @@ function onMessageHandler (channel, tags, msg, self) {
     client.say(channel, `${usersTracking.filter((elem) => elem.isCursed)[0].username}'s dick is a noodle ! everybody look at him and laugh KEKWPoint !`);
   }
 }
-
+/* eslint-disable */
 client.on("submysterygift", (channel, username, numbOfSubs, methods, userstate) => {
   if (numbOfSubs === 5 && usersTracking.length > 0){
     const random = Math.floor(Math.random() * usersTracking.length);
