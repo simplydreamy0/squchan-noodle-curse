@@ -1,3 +1,10 @@
+# [1.2.0](https://github.com/DreamyProtect/squchan-noodle-curse/compare/v1.1.3...v1.2.0) (2023-06-02)
+
+
+### Features
+
+* added docker build, push and storage in gcr registry and eslint ([948319c](https://github.com/DreamyProtect/squchan-noodle-curse/commit/948319c8721ce5a560ab21d495967157a5ed0c7f))
+
 ## [1.1.3](https://github.com/DreamyProtect/squchan-noodle-curse/compare/v1.1.2...v1.1.3) (2023-05-17)
 
 
