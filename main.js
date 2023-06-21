@@ -62,6 +62,7 @@ function onMessageHandler (channel, tags, msg, self) {
 /* eslint-disable */
 client.on("submysterygift", (channel, username, numbOfSubs, methods, userstate) => {
   if (numbOfSubs === 5 && usersTracking.length > 0){
+    console.log(`${username} is casting a noodle...`);
     const random = Math.floor(Math.random() * usersTracking.length);
     usersTracking = usersTracking.map((elem) => {
       if (elem.username === usersTracking[random].username){
@@ -69,7 +70,6 @@ client.on("submysterygift", (channel, username, numbOfSubs, methods, userstate) 
       }
       return { username: elem.username, lastMessage: elem.lastMessage, isCursed: false }
     });
-
     console.log(`${channel} Skedaddle Skedoodle ${usersTracking[random].username}'s dick is now a noodle !`);
     client.say(channel, `Skedaddle Skedoodle ${usersTracking[random].username}'s dick is now a noodle !`);
   }
