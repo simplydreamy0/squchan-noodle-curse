@@ -1,6 +1,6 @@
 {
   "name": "squ-noodle-curse",
-  "version": "1.2.0",
+  "version": "1.3.0",
   "description": "A twitch chatbot that keeps track of the active users in the chat and randomly assign the noodle curse to a user whenever a 5 subgift bomb happens",
   "private": true,
   "main": "main.js",

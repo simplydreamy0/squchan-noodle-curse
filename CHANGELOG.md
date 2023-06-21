@@ -1,3 +1,10 @@
+# [1.3.0](https://github.com/DreamyProtect/squchan-noodle-curse/compare/v1.2.0...v1.3.0) (2023-06-21)
+
+
+### Features
+
+* added logging of who is casting noodles ([c8167f5](https://github.com/DreamyProtect/squchan-noodle-curse/commit/c8167f502f9c38f86748f7e5cc021f4ea526b0f7))
+
 # [1.2.0](https://github.com/DreamyProtect/squchan-noodle-curse/compare/v1.1.3...v1.2.0) (2023-06-02)
 
 
