@@ -1,3 +1,10 @@
+## [1.3.1](https://github.com/DreamyProtect/squchan-noodle-curse/compare/v1.3.0...v1.3.1) (2023-09-04)
+
+
+### Bug Fixes
+
+* added streamelements to the list of non-tracked users ([a8102b4](https://github.com/DreamyProtect/squchan-noodle-curse/commit/a8102b4b455cd5b3b761ff32b3159de9bb361717))
+
 # [1.3.0](https://github.com/DreamyProtect/squchan-noodle-curse/compare/v1.2.0...v1.3.0) (2023-06-21)
 
 
