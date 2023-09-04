@@ -18,7 +18,8 @@ var usersNotTracked = [
   "nightbot",
   "soundalerts",
   "spinel97",
-  "sery_bot"
+  "sery_bot",
+  "streamelements"
 ];
 
 client.on('message', onMessageHandler);
