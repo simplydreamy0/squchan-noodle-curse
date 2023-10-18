@@ -57,7 +57,7 @@ function onMessageHandler (channel, tags, msg, self) {
       client.say(channel, `Nobody is cursed at the moment, time to gift SquDink`);
       return;
     }
-    client.say(channel, `${usersTracking.filter((elem) => elem.isCursed)[0].username}'s dick is a noodle ! everybody look at him and laugh KEKWPoint !`);
+    client.say(channel, `${usersTracking.filter((elem) => elem.isCursed)[0].username}'s dick is a noodle ! everybody look at him and laugh PokattoPoint !`);
   }
 }
 /* eslint-disable */
