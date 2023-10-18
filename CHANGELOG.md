@@ -1,3 +1,10 @@
+## [1.3.2](https://github.com/DreamyProtect/squchan-noodle-curse/compare/v1.3.1...v1.3.2) (2023-10-18)
+
+
+### Bug Fixes
+
+* use PokattoPoint instead of KEKWPoint in the noodled message ([f2ca032](https://github.com/DreamyProtect/squchan-noodle-curse/commit/f2ca0321f4655d1e073475b58468b95e98fb92f5))
+
 ## [1.3.1](https://github.com/DreamyProtect/squchan-noodle-curse/compare/v1.3.0...v1.3.1) (2023-09-04)
 
 
